@@ -1,5 +1,6 @@
 import React from 'react';
 import Header from './components/Header';
+import FeatureMenu from './components/FeatureMenu';
 // Import other components as needed
 
 function App() {
@@ -8,8 +9,7 @@ function App() {
       {/* Render the Header component */}
       <Header />
       {/* Render other components and UI elements */}
-      {/* For example: */}
-      {/* <FeatureMenu /> */}
+      <FeatureMenu />
       {/* <TextDisplay /> */}
       {/* <Timer /> */}
       {/* <RestartButton /> */}
