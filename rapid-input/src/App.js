@@ -1,23 +1,19 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import Header from './components/Header';
+// Import other components as needed
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      {/* Render the Header component */}
+      <Header />
+      {/* Render other components and UI elements */}
+      {/* For example: */}
+      {/* <FeatureMenu /> */}
+      {/* <TextDisplay /> */}
+      {/* <Timer /> */}
+      {/* <RestartButton /> */}
+      {/* Add more components as needed */}
     </div>
   );
 }
