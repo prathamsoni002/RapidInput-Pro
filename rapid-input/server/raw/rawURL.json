@@ -1,0 +1,205 @@
+{
+    "Python": [
+      {
+        "user": "donnemartin",
+        "repo": "system-design-primer",
+        "file_name": "online_chat.py",
+        "raw_code_link": "https://raw.githubusercontent.com/donnemartin/system-design-primer/master/solutions/object_oriented_design/online_chat/online_chat.py"
+      },
+      {
+        "user": "vinta",
+        "repo": "awesome-python",
+        "file_name": "sort.py",
+        "raw_code_link": "https://raw.githubusercontent.com/vinta/awesome-python/master/sort.py"
+      },
+      {
+        "user": "localstack",
+        "repo": "localstack",
+        "file_name": "app.py",
+        "raw_code_link": "https://raw.githubusercontent.com/localstack/localstack/0f7d49fd27179395a536827088231fc093f7ca72/localstack/aws/app.py"
+      }
+    ],
+    "JavaScript": [
+      {
+        "user": "Xtremilicious",
+        "repo": "projectlearn-project-based-learning",
+        "file_name": "Categories.js",
+        "raw_code_link": "https://raw.githubusercontent.com/Xtremilicious/projectlearn-project-based-learning/master/src/components/Landing/Categories.js"
+      },
+      {
+        "user": "HelloZeroNet",
+        "repo": "ZeroNet",
+        "file_name": "coffee-script.js",
+        "raw_code_link": "https://raw.githubusercontent.com/HelloZeroNet/ZeroNet/py3/tools/coffee/coffee-script.js"
+      },
+      {
+        "user": "arachnys",
+        "repo": "cabot",
+        "file_name": "jquery.ui.position.js",
+        "raw_code_link": "https://raw.githubusercontent.com/arachnys/cabot/master/cabot/static/theme/js/jquery.ui.position.js"
+      }
+    ],
+    "Java": [
+      {
+        "user": "spring-projects",
+        "repo": "spring-boot",
+        "file_name": "ControllerOne.java",
+        "raw_code_link": "https://raw.githubusercontent.com/spring-projects/spring-boot/main/spring-boot-project/spring-boot-devtools/src/intTest/java/com/example/ControllerOne.java"
+      },
+      {
+        "user": "spring-projects",
+        "repo": "spring-boot",
+        "file_name": "ResourceBanner.java",
+        "raw_code_link": "https://raw.githubusercontent.com/spring-projects/spring-boot/main/spring-boot-project/spring-boot/src/main/java/org/springframework/boot/ResourceBanner.java"
+      }
+    ],
+    "C": [
+      {
+        "user": "TheAlgorithms",
+        "repo": "C",
+        "file_name": "catalan.c",
+        "raw_code_link": "https://github.com/TheAlgorithms/C/raw/master/math/catalan.c"
+      }
+    ],
+    "C++": [
+      {
+        "user": "google",
+        "repo": "flatbuffers",
+        "file_name": "idl_gen_java.cpp",
+        "raw_code_link": "https://raw.githubusercontent.com/google/flatbuffers/master/src/idl_gen_java.cpp"
+      }
+    ],
+    "C#": [
+      {
+        "user": "FlaxEngine",
+        "repo": "FlaxEngine",
+        "file_name": "Editor.cs",
+        "raw_code_link": "https://raw.githubusercontent.com/FlaxEngine/FlaxEngine/master/Source/Editor/Editor.cs"
+      },
+      {
+        "user": "FlaxEngine",
+        "repo": "FlaxEngine",
+        "file_name": "Undo.cs",
+        "raw_code_link": "https://raw.githubusercontent.com/FlaxEngine/FlaxEngine/master/Source/Editor/Undo/Undo.cs"
+      }
+    ],
+    "Ruby": [
+      {
+        "user": "rails",
+        "repo": "rails",
+        "file_name": "helper.rb",
+        "raw_code_link": "https://raw.githubusercontent.com/rails/rails/main/activejob/test/helper.rb"
+      }
+    ],
+    "PHP": [
+      {
+        "user": "PHPOffice",
+        "repo": "PhpSpreadsheet",
+        "file_name": "21b_Pdf.php",
+        "raw_code_link": "https://raw.githubusercontent.com/PHPOffice/PhpSpreadsheet/master/samples/Pdf/21b_Pdf.php"
+      }
+    ],
+    "Swift": [
+      {
+        "user": "ipader",
+        "repo": "SwiftGuide",
+        "file_name": "LoresView.swift",
+        "raw_code_link": "https://raw.githubusercontent.com/ipader/SwiftGuide/master/other/VirtualGS/Lores/Lores/LoresView.swift"
+      }
+    ],
+    "Go": [
+      {
+        "user": "ipader",
+        "repo": "SwiftGuide",
+        "file_name": "LoresView.swift",
+        "raw_code_link": "https://raw.githubusercontent.com/ipader/SwiftGuide/master/other/VirtualGS/Lores/Lores/LoresView.swift"
+      }
+    ],
+    "TypeScript": [
+      {
+        "user": "TheAlgorithms",
+        "repo": "TypeScript",
+        "file_name": "johnson.ts",
+        "raw_code_link": "https://github.com/TheAlgorithms/TypeScript/raw/master/graph/johnson.ts"
+      }
+    ],
+    "Kotlin": [
+      {
+        "user": "JetBrains",
+        "repo": "kotlin-web-site",
+        "file_name": "BuildApiReferenceSearchIndex.kt",
+        "raw_code_link": "https://github.com/JetBrains/kotlin-web-site/raw/master/.teamcity/builds/apiReferences/templates/BuildApiReferenceSearchIndex.kt"
+      }
+    ],
+    "Rust": [
+      {
+        "user": "rust-unofficial",
+        "repo": "awesome-rust",
+        "file_name": "hacktoberfest.rs",
+        "raw_code_link": "https://github.com/rust-unofficial/awesome-rust/raw/main/src/bin/hacktoberfest.rs"
+      }
+    ],
+    "CSS": [
+      {
+        "user": "lukehaas",
+        "repo": "css-loaders",
+        "file_name": "load4.scss",
+        "raw_code_link": "https://github.com/lukehaas/css-loaders/raw/step2/sass/load4.scss"
+      }
+    ],
+    "HTML": [
+      {
+        "user": "whatwg",
+        "repo": "html",
+        "file_name": "index.html",
+        "raw_code_link": "https://github.com/whatwg/html/raw/main/demos/canvas/blue-robot/index.html"
+      }
+    ],
+    "Shell": [
+      {
+        "user": "pop-os",
+        "repo": "shell",
+        "file_name": "configure.sh",
+        "raw_code_link": "https://github.com/pop-os/shell/raw/master_mantic/scripts/configure.sh"
+      },
+      {
+        "user": "iam-veeramalla",
+        "repo": "shell-scripting-projects",
+        "file_name": "s3-notification-triggers.sh",
+        "raw_code_link": "https://github.com/iam-veeramalla/shell-scripting-projects/raw/main/aws-event-triggering/s3-notification-triggers.sh"
+      }
+    ],
+    "R": [
+      {
+        "user": "hadley",
+        "repo": "adv-r",
+        "file_name": "common.R",
+        "raw_code_link": "https://github.com/hadley/adv-r/raw/master/common.R"
+      }
+    ],
+    "Perl": [
+      {
+        "user": "bugzilla",
+        "repo": "bugzilla",
+        "file_name": "jobqueue.pl",
+        "raw_code_link": "https://github.com/bugzilla/bugzilla/raw/5.2/jobqueue.pl"
+      }
+    ],
+    "Scala": [
+      {
+        "user": "TheAlgorithms",
+        "repo": "Scala",
+        "file_name": "HeapSort.scala",
+        "raw_code_link": "https://github.com/TheAlgorithms/Scala/raw/master/src/main/scala/Sort/HeapSort.scala"
+      }
+    ],
+    "Dart": [
+      {
+        "user": "TheAlgorithms",
+        "repo": "Scala",
+        "file_name": "HeapSort.scala",
+        "raw_code_link": "https://github.com/TheAlgorithms/Scala/raw/master/src/main/scala/Sort/HeapSort.scala"
+      }
+    ]
+  }
+  

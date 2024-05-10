@@ -1,8 +1,8 @@
 /* body */
 body {
-  background-color: #444; /* Lighter background color */
-  margin: 0; /* Remove default margin */
-  padding: 0; /* Remove default padding */
+  background-color: #444; 
+  margin: 0; 
+  padding: 0; 
 }
 /* body */
 
@@ -36,8 +36,8 @@ body {
 /* FeatureMenu component styles */
 .features-menu {
   display: flex;
-  justify-content: center; /* Center the items horizontally */
-  align-items: center; /* Center the items vertically */
+  justify-content: center; 
+  align-items: center;
   position: absolute;
   top: 30%;
   left: 50%;
@@ -45,7 +45,7 @@ body {
   padding: 20px;
   border-radius: 10px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
-  z-index: 1001; /* Ensure it appears above the header */
+  z-index: 1001; 
 }
 
 .feature-item {
@@ -59,21 +59,21 @@ body {
 }
 
 .features-menu span {
-  margin-right: 10px; /* Add some spacing between text and input elements */
+  margin-right: 10px; 
 }
 
 .toggle-button {
   padding: 5px 10px;
   background-color: transparent;
-  color: #fff; /* White text color */
-  border: 1px solid #fff; /* White border */
-  border-radius: 5px; /* Rounded corners */
-  cursor: pointer; /* Change cursor on hover */
+  color: #fff; 
+  border: 1px solid #fff; 
+  border-radius: 5px; 
+  cursor: pointer; 
 }
 
 .toggle-button.active {
-  background-color: #fff; /* White background color when active */
-  color: #333; /* Dark text color when active */
+  background-color: #fff; 
+  color: #333; 
 }
 
 .time-options {
@@ -83,33 +83,95 @@ body {
 .time-option {
   padding: 5px 10px;
   background-color: transparent;
-  color: #fff; /* White text color */
-  border: 1px solid #fff; /* White border */
-  border-radius: 5px; /* Rounded corners */
-  cursor: pointer; /* Change cursor on hover */
-  margin-right: 5px; /* Add some spacing between time options */
+  color: #fff; 
+  border: 1px solid #fff; 
+  border-radius: 5px; 
+  cursor: pointer; 
+  margin-right: 5px; 
 }
 
 .time-option.active {
-  background-color: #fff; /* White background color when active */
-  color: #333; /* Dark text color when active */
+  background-color: #fff; 
+  color: #333; 
 }
 
 .time-option:not(.active):hover,
 .toggle-button:not(.active):hover {
-  background-color: rgba(255, 255, 255, 0.45); /* White with 40% opacity */
+  background-color: rgba(255, 255, 255, 0.45); 
 }
 
-/* Customize dropdown options */
 select {
-  color: white; /* Change text color */
-  background-color: #444; /* Remove background color */
+  color: white; 
+  background-color: #444; 
 }
 
-/* Customize selected option */
+
 select option:checked {
-  background-color:#444; /* Remove background color of selected option */
+  background-color:#444; 
 }
 
 /* FeatureMenu component styles */
 
+/* TextDisplay.js component styles */
+
+.text-display {
+  font-family: 'Arial', sans-serif; 
+  font-size: 16px; 
+  color: rgba(255, 255, 255, 0.5); 
+  font-weight: 600;
+}
+
+.pointer {
+  background-color: yellow;
+}
+
+.error {
+  color: red; 
+}
+
+.matched {
+  color: white; 
+  opacity: 1; 
+}
+/* TextDisplay.js component styles */
+
+/* Timer.js component styles */
+
+.timer {
+  font-size: 20px;
+  color: yellow;
+}
+
+.timer-countdown {
+  font-weight: bold;
+}
+
+
+/* Timer.js component styles */
+
+/* RestartButton.js component styles */
+
+.restart-button-container {
+  position: fixed;
+  text-align: center;
+  left: 0;
+  right: 0;
+  bottom: 30px;
+}
+
+.restart-button {
+  padding: 10px 20px;
+  font-size: 18px;
+  background-color: #444;
+  color: white;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+}
+
+.restart-button:hover {
+  background-color: #555;
+}
+
+
+/* RestartButton.js component styles */
